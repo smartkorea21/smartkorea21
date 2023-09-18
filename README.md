@@ -1,31 +1,40 @@
-- 👋 Hi, I’m @smartkorea21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
-- ■ Doctor of Philosophy
-(1) 고려대학교 공학 박사 과정
+■ Doctor of Philosophy
+
+   (1) 고려대학교 공학 박사 과정
 
 ■ Master Degree
-(1) 성균관대, 소프트웨어 융합대학원, Master of Science, 졸업
+
+   (1) 성균관대, 소프트웨어 융합대학원, Master of Science, 졸업
 
 ■ Master Certificate
-(1) 성공회대, Social Economy AMP(Advanced Management Program), 수료
-(2) University of Wisconsin, Logistics and SCM Course, 수료
+
+   (1) 성공회대, Social Economy AMP(Advanced Management Program), 수료
+   
+   (2) University of Wisconsin, Logistics and SCM Course, 수료
 
 ■ USA Certificate
-(1) University of Pennsylvania, Entrepreneurship Course, 수료
-(2) University of Illinois at Urbana-Champaign, Leadership Course, 수료
-(3) University of Illinois at Urbana-Champaign, StrategyⅠCourse, 수료
-(4) University of Illinois at Urbana-Champaign, StrategyⅡCourse, 수료
-(5) University of Illinois at Urbana-Champaign, Organizational Studies Course, 수료
-(6) University of California Irvine, Project Management Course, 수료
-(7) University of Virginia, Design Thinking Course, 수료
-(8) Duke University, Argument Management Course, 수료
-(9) University of Michigan, Motivation Management Course, 수료
-(10) University of Michigan, Strategy Course, 수료
-(11) ESSEC Business School, Marketing Analytics Course, 수료
+
+   (1) University of Pennsylvania, Entrepreneurship Course, 수료
+   
+  (2) University of Illinois at Urbana-Champaign, Leadership Course, 수료
+  
+  (3) University of Illinois at Urbana-Champaign, StrategyⅠCourse, 수료
+  
+  (4) University of Illinois at Urbana-Champaign, StrategyⅡCourse, 수료
+
+  (5) University of Illinois at Urbana-Champaign, Organizational Studies Course, 수료
+  
+  (6) University of California Irvine, Project Management Course, 수료
+
+  (7) University of Virginia, Design Thinking Course, 수료
+
+  (8) Duke University, Argument Management Course, 수료
+  
+  (9) University of Michigan, Motivation Management Course, 수료
+
+  (10) University of Michigan, Strategy Course, 수료
+
+  (11) ESSEC Business School, Marketing Analytics Course, 수료
 
 ■ Bachelor Degree
 
