@@ -38,21 +38,28 @@
 
 ■ Bachelor Degree
 
-
-(1) 경희대, 법학 / 경제학 B.A 졸업
-(2) 대한예수교장로회 총회신학대학교, 신학 B.A 졸업
-(3) 고려사이버대,『① 보건데이터 공학, ② 인공지능 공학, ③ Big Data 공학, ④ 소프트웨어 공학』BA 졸업
+  (1) 경희대, 법학 / 경제학 B.A 졸업
+  
+  (2) 대한예수교장로회 총회신학대학교, 신학 B.A 졸업
+  
+  (3) 고려사이버대,『① 보건데이터 공학, ② 인공지능 공학, ③ Big Data 공학, ④ 소프트웨어 공학』BA 졸업
 
 ■ 연구 논문
-(1) KCI 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅰ
-(2) KCI 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅱ
-(3) KCI 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅲ
-(4) 컨퍼런스 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅳ
-(5) 컨퍼런스 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅴ
+
+  (1) KCI 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅰ
+  
+  (2) KCI 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅱ
+  
+  (3) KCI 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅲ
+  
+  (4) 컨퍼런스 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅳ
+  
+  (5) 컨퍼런스 논문, Smart Logistics 중소기업 물류 비용 절감 Ⅴ
 
 ■ 특허
-(1) Smart Logistics Ⅰ
-(2) Smart Logistics Ⅱ
+  (1) Smart Logistics Ⅰ
+  
+  (2) Smart Logistics Ⅱ
 
 ■ 기타
 (1) 관세사, 관세청, 1차 합격
