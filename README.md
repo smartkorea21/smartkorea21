@@ -11,7 +11,7 @@
 
 ■ Doctor of Philosophy
 
-   (1) 고려대학교 공학 박사 과정
+   (1) OOO OOOOO 의료공학 박사 과정
 
 ■ Master Degree
 
